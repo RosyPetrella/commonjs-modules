@@ -7,4 +7,4 @@ function completeName(firstName, lastName) {
   return fullName;
 }
 
-export default completeName;
+module.exports = completeName;

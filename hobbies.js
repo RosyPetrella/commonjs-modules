@@ -7,4 +7,4 @@ function hobbies(hobbyOne, hobbyTwo, hobbyThree) {
   return threeHobbies;
 }
 
-export default hobbies;
+module.exports = hobbies;
