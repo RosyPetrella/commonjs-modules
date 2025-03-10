@@ -3,7 +3,8 @@
 // Esporta la funzione dal file.
 
 function hobbies(hobbyOne, hobbyTwo, hobbyThree) {
-  return [hobbyOne, hobbyTwo, hobbyThree];
+  let threeHobbies = [hobbyOne, hobbyTwo, hobbyThree];
+  return threeHobbies;
 }
 
 export default hobbies;
